@@ -10,6 +10,7 @@ const Navbar = () => {
 				<Link className="navbar__links" to = "/modal">Fenêtre pop-up</Link>
 				<Link className="navbar__links" to = "/validation">Validation</Link>
 				<Link className="navbar__links" to = "/validhooks">Valid hooks</Link>
+				<Link className="navbar__links" to = "/scomp">Styled</Link>
 			</div>
 		</div>
 	)
